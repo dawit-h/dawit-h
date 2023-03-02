@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 -->
+<style></style>
 - 🌱 I’m currently learning CS and Software Engineering
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with **Flutter, Java, kotlin**
 - 💬 Ask me about **Flutter**
-- 📫 How to reach me: **@dawit__hailu <img height=15 width=15 src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-svg-vector.svg" />
+- 📫 How to reach me: **@dawit__hailu <img height=15 width=15 src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-svg-vector.svg" />**
 
 
