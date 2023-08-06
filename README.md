@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Flutter, Java, kotlin**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: **<img height=15 width=15 src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-svg-vector.svg" /> <a href="https://twitter.com/dawit__hailu">Twitter</a>**
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64a2a693d99c9d6731aae8d5?variant=dark" alt="roadmap.sh"/></a>
 
